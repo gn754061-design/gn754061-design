@@ -1,6 +1,6 @@
 # مرحباً بك! 👋 / Welcome!
 
-مطور برمجيات متخصص في **تعريب وهندسة ألعاب الفيديو الكلاسيكية (Retro Game Localization & ROM Hacking)** لمنصات **Game Boy Advance (GBA)** و **PlayStation 1 (PS1)** و **PlayStation Portable (PSP)**.
+مطور برمجيات متخصص في **تعريب وهندسة ألعاب الفيديو الكلاسيكية (Retro Game Localization & ROM Hacking)** لمنصات **Sega Genesis / Mega Drive** و **Game Boy Advance (GBA)** و **PlayStation 1 (PS1)** و **PlayStation Portable (PSP)**.
 
 Software developer specializing in retro game localization, font pipelines, RTL text shapers, and reverse engineering tooling for classic gaming consoles.
 
@@ -10,6 +10,7 @@ Software developer specializing in retro game localization, font pipelines, RTL 
 
 | المشروع | المنصة | الوصف / Description | التقنيات |
 |---|---|---|---|
+| **[Comix Zone](https://github.com/gn754061-design/comix-zone-arabic)** | Genesis | تعريب كامل: خط Rooyin المخصص، حفظ SRAM تلقائي، وتحسينات تجميعية لمعالج M68000. | Python, M68k ASM, BPS |
 | **[Kingdom Hearts: Chain of Memories](https://github.com/gn754061-design/kingdom-hearts-chain-of-memories-arabic)** | GBA | تعريب كامل: خطوط بكسل مخصصة، كتالوج ترجمة الحوارات، ورقعة BPS متوافقة قانونياً. | Python, Freetype, YAML |
 | **[Mega Man X4 Arabic](https://github.com/gn754061-design/mega-man-x4-arabic)** | PS1 / Recomp | تعريب كامل للحوارات، تشكيل RTL، وحقن الخط العربي المتصل في أطلس اللعبة. | Python, Pillow, Bidi |
 | **[Arabic GBA Glyphs Pipeline](https://github.com/gn754061-design/arabic-gba-glyphs)** | GBA | خط إنتاج متكامل وقابل لإعادة الاستخدام لتوليد خطوط بكسل عربية وجداول العرض لمنصات الريترو. | JavaScript, Node.js |
@@ -31,7 +32,7 @@ Software developer specializing in retro game localization, font pipelines, RTL 
 
 ### 🛠️ لغات وأدوات / Tooling & Stack
 
-`Python` • `Node.js / JavaScript` • `PowerShell` • `Pillow` • `Git` • `mGBA` • `BPS Delta Patching`
+`Python` • `Node.js / JavaScript` • `PowerShell` • `M68000 Assembly` • `Pillow` • `Git` • `mGBA` • `BPS Delta Patching`
 
 ---
 *All game trademarks and copyrights belong to their respective owners. These are strictly non-commercial fan localization projects.*
