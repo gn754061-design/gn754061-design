@@ -10,6 +10,7 @@ Software developer specializing in retro game localization, font pipelines, RTL 
 
 | المشروع | المنصة | الوصف / Description | التقنيات |
 |---|---|---|---|
+| **[Phantasy Star IV](https://github.com/gn754061-design/phantasy-star-iv-arabic)** | Genesis | تعريب كامل: 9,905 سطر حوار، خطوط بكسل 8×16 و 8×8 مخصصة، شاشة بداية شفافة، ورقعة BPS قانونية. | Python, M68k ASM, BPS |
 | **[Comix Zone](https://github.com/gn754061-design/comix-zone-arabic)** | Genesis | تعريب كامل: خط Rooyin المخصص، حفظ SRAM تلقائي، وتحسينات تجميعية لمعالج M68000. | Python, M68k ASM, BPS |
 | **[Kingdom Hearts: Chain of Memories](https://github.com/gn754061-design/kingdom-hearts-chain-of-memories-arabic)** | GBA | تعريب كامل: خطوط بكسل مخصصة، كتالوج ترجمة الحوارات، ورقعة BPS متوافقة قانونياً. | Python, Freetype, YAML |
 | **[Mega Man X4 Arabic](https://github.com/gn754061-design/mega-man-x4-arabic)** | PS1 / Recomp | تعريب كامل للحوارات، تشكيل RTL، وحقن الخط العربي المتصل في أطلس اللعبة. | Python, Pillow, Bidi |
