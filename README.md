@@ -10,6 +10,7 @@ Software developer specializing in retro game localization, font pipelines, RTL 
 
 | المشروع | المنصة | الوصف / Description | التقنيات |
 |---|---|---|---|
+| **[Boktai: The Sun Is in Your Hand](https://github.com/gn754061-design/boktai-the-sun-is-in-your-hand-arabic)** | GBA | تعريب كامل: 4,286 نصاً عربياً، خط 8×16 4bpp متصل (133 شكلاً سياقياً)، فتح نطاق أحادي البايت (ARM/Thumb)، ورقع BPS/IPS قانونية. | Python, ARM/Thumb, BPS, mGBA |
 | **[Golden Sun: The Lost Age](https://github.com/gn754061-design/golden-sun-the-lost-age-arabic)** | GBA | تعريب كامل: 12,461 رسالة متحقّق منها (100%)، خط Rooyin المتصل (131 محرف) + خط 4bpp 8×8 للقوائم، ورقعة BPS قانونية. | Python, Huffman, BPS, mGBA |
 | **[Phantasy Star IV](https://github.com/gn754061-design/phantasy-star-iv-arabic)** | Genesis | تعريب كامل: 9,905 سطر حوار، خطوط بكسل 8×16 و 8×8 مخصصة، شاشة بداية شفافة، ورقعة BPS قانونية. | Python, M68k ASM, BPS |
 | **[Comix Zone](https://github.com/gn754061-design/comix-zone-arabic)** | Genesis | تعريب كامل: خط Rooyin المخصص، حفظ SRAM تلقائي، وتحسينات تجميعية لمعالج M68000. | Python, M68k ASM, BPS |
